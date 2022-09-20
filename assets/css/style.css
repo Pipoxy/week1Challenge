@@ -111,11 +111,11 @@ img {
     color: #ffffff;
 }
 
-.search-engine img {
+.articles img {
     max-height: 200px;
 }
 
-.search-engine h2 {
+.articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
